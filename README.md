@@ -15,28 +15,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 **Hello :earth_americas: , I'm Vania Patricia <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">**
-**Hello :earth_americas: , welcome to my GitHub  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">**
+ Welcome to my GitHub  
 
-I'm Patty, a Computer Engineering  graduate who's transitioning into Full Stack Development.
+I prefer you to call me by the name of Patty, I'm a Computer Engineering  graduate who's transitioning into Full Stack Development.
 
 I currently finished the Full Stack Development [Trybe] course (https://www.betrybe.com/), where I learned new difficult skills, but also very important social skills preparing me to know how to deal with different types of people, environments and situations many different.
-
-<img align="right" src="https://github.com/vapatty6848/vapatty6848/blob/master/mina.gif">
-:sunny: **Information:** 
+:sunny:  Information: 
 - :house_with_garden: I'm currently living in Sorocaba -SP - Brazil;
-- :thought_balloon: A big believer that technology can resolve many
-issues and that's why I'm looking for an opportunity to get started in this career;
+- :thought_balloon: A big believer that technology can resolve many issues and that's why I'm looking for an opportunity to get started in this career;
 - :honeybee: I appreciate teamwork in workplaces  :soccer: :rugby_football:;
-:pray: Please, feel free to send me feedbacks and contributing to my GitHub Page :octocat:
-You can reach me on:
-<p align="left">
-  <a href="https://www.linkedin.com/in/vania-patricia-garcia-gomes/"><img src="https://github.com/vapatty6848/vapatty6848/blob/master/linkedin-round.svg" width="35px" alt="LinkedIn"></a> &nbsp; &nbsp;
-  <a href="https://instagram.com/vapatty2018"><img src="https://github.com/vapatty6848/vapatty6848/blob/master/instagram-round.svg" width="35px" alt="Instagram"></a> &nbsp; &nbsp;
-  <a href="https://www.facebook.com/patty garcia/"><img src="https://github.com/vapatty6848/vapatty6848/blob/master/facebook-round.png" width="35px" alt="Facebook">     </a> &nbsp; &nbsp;
-  <a href="https://t.me/vania patricia"><img src="https://github.com/vapatty6848/vapatty6848/blob/master/telegram-round.svg" width="35px" alt="Telegram"></a> &nbsp; &nbsp;
-  <a href="mailto:vapatty@gmail.com?subject=Hello%20Patty"><img src="https://github.com/vapatty6848/vapatty6848/blob/master/gmail.png" width="35px" alt="Gmail"></a> &nbsp; &nbsp;
-</p>
-### Languages and Tools 🛠 
+- :pray: Please, feel free to send me feedbacks and contributing to my GitHub Page :octocat:
+-  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hgph.is/1WqIy4N" width="29px">
+
+***Languages and Tools 🛠***
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
 ![NodeJs](https://img.shields.io/badge/-NodeJS-339933?style=flat-square&logo=node.js&logoColor=ffffff)
@@ -51,9 +43,9 @@ You can reach me on:
 ![Linux](http://img.shields.io/badge/-Linux-007ACC?style=flat-square&logo=linux&logoColor=ffffff)
  
 <br/>
----
+
 <br/>
-  <h2 align="center"> Github Statistics 📈 </h2>
+  <h2 align="center"> Github Statistics </h2>
   
   <div align="center"> 
      <a href="">
