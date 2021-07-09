@@ -1,4 +1,4 @@
-### I'm Full Stack Developer and Computer Engineering 👋
+### Full Stack Developer and Computer Engineering 👋
  
 <!--
 **vapatty6848/vapatty6848** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,16 +17,34 @@ Here are some ideas to get you started:
 **Hello :earth_americas: , I'm Vania Patricia <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">**
  Welcome to my GitHub  
 
-I prefer you to call me by the name of Patty, I'm a Computer Engineering  graduate who's transitioning into Full Stack Development.
+I prefer my nickname Patty, I'm a Computer Engineering graduate who's transitioning into Full Stack Development.
 
-I currently finished the Full Stack Development [Trybe] course (https://www.betrybe.com/), where I learned new difficult skills, but also very important social skills preparing me to know how to deal with different types of people, environments and situations many different.
+I currently finished the Full Stack Development Trybe course (https://www.betrybe.com/), where I learned new  hardskills, but also very important softskills preparing me to know how to deal with different types of people, environments and situations many different.
 :sunny:  Information: 
 - :house_with_garden: I'm currently living in Sorocaba -SP - Brazil;
 - :thought_balloon: A big believer that technology can resolve many issues and that's why I'm looking for an opportunity to get started in this career;
 - :honeybee: I appreciate teamwork in workplaces  :soccer: :rugby_football:;
-- 
-<br>
 
+- You can reach me on:
+<div>
+   <p>
+     <a href="https://www.linkedin.com/in/vania-patricia-garcia-gomes/">
+        <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" width="35px" alt="linkedin">
+     </a>
+     <a href="https://www.instagram.com/vapatty2018/">
+       <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" width="35px" alt="instagran">
+     </a>
+     <a  href="mailto:vapatty@gmail.com">
+       <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" width="35px" alt="Gmail">
+     </a>
+     <a href="https://www.facebook.com/patty.g14661/">
+       <img src="https://github.com/carlanakajuni/carlanakajuni/blob/master/facebook-round.png" width="35px" alt="Facebook">
+     </a>
+  </p>
+  </br>
+</div>
+
+<br/>
 
 ***Languages and Tools 🛠***
 
@@ -57,4 +75,4 @@ I currently finished the Full Stack Development [Trybe] course (https://www.betr
     </a>
   </div>  
 <br/>
----
+
