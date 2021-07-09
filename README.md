@@ -24,8 +24,9 @@ I currently finished the Full Stack Development [Trybe] course (https://www.betr
 - :house_with_garden: I'm currently living in Sorocaba -SP - Brazil;
 - :thought_balloon: A big believer that technology can resolve many issues and that's why I'm looking for an opportunity to get started in this career;
 - :honeybee: I appreciate teamwork in workplaces  :soccer: :rugby_football:;
-- :pray: Please, feel free to send me feedbacks and contributing to my GitHub Page :octocat:
--  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hgph.is/1WqIy4N" width="29px">
+- 
+<br>
+
 
 ***Languages and Tools 🛠***
 
@@ -49,7 +50,7 @@ I currently finished the Full Stack Development [Trybe] course (https://www.betr
   
   <div align="center"> 
      <a href="">
-      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=vapatty6848show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
+      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=vapatty6848&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
     </a>
     <a href="">
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vapatty6848&theme=react&line_height=40&hide=css"/>
